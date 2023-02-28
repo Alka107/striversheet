@@ -1,5 +1,5 @@
 def reverseWords(s):
-    s = s.split()
+    #s = s.split()
     x=s[::-1]
     l = []
     for i in x:
